@@ -32,7 +32,7 @@ The dataset for the ICC Cricket World Cup 2019 Analysis can be found on Kaggle. 
 
 ## Azure Synapse Workspace Setup
 
-1. **Azure Synapse Workspace Creation:**
-2. **SQL Pool Creation in Azure Synapse Workspace:**
-3. **Table Creation in SQL Pool:**
-4. **Data Ingestion Pipeline from Azure Storage into the SQL pool tables:**
+1. **Azure Synapse Workspace Creation**
+2. **SQL Pool Creation in Azure Synapse Workspace**
+3. **Table Creation in SQL Pool**
+4. **Data Ingestion Pipeline from Azure Storage into the SQL pool tables**
